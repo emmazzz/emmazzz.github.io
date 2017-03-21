@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <script>
+    function func() = {window.open("google.com");}
+  </script>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -42,9 +45,9 @@
 
     <div class="wrapper-footer">
       <div class="container">
-        <div>
-      Like this page
-    </div>
+        <button class="footer" onclick="func()">
+          Like this page
+        </button>
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
