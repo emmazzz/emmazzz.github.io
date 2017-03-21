@@ -18,8 +18,8 @@
 
   <body>
     <script>
-    function func() = {window.open("google.com");}
-  </script>
+      function func() = {window.open("google.com");}
+    </script>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -46,10 +46,11 @@
 
     <div class="wrapper-footer">
       <div class="container">
-        <button class="footer" onclick="func()">
+        <button class="footer" onclick="window.open('google.com');">
           Like this page
         </button>
         <footer class="footer">
+          
           {% include svg-icons.html %}
         </footer>
       </div>
