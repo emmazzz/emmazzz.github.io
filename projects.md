@@ -5,10 +5,10 @@ permalink: /projects/
 ---
 
 ### COMPILER FOR C0
-⋅⋅* Design and implement a compilerfor C0, a C-like language with control flow, O2 optimization and LLVM retargetting
-⋅⋅* Implement register allocation, function inlining, graph search coloring, tail recursion conversion
-⋅⋅* Coded in LLVM assembly, Intel x86-64 assembly and OCaml
+* Design and implement a compilerfor C0, a C-like language with control flow, O2 optimization and LLVM retargetting
+* Implement register allocation, function inlining, graph search coloring, tail recursion conversion
+* Coded in LLVM assembly, Intel x86-64 assembly and OCaml
 
 ### GRAPHICS KIT
-⋅⋅* Implement SVG Renderer, Mesh Editor,Path Tracer and Animation Generator
-⋅⋅* Use theory of Russian Roulette sampling, Lagrangian kinetics and coded in C++
+* Implement SVG Renderer, Mesh Editor,Path Tracer and Animation Generator
+* Use theory of Russian Roulette sampling, Lagrangian kinetics and coded in C++
