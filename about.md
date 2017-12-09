@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a junior at Carnegie Mellon University.
-
-### Contact me
+I am a senior at Carnegie Mellon University.
+I love food.
 
