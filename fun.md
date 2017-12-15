@@ -17,3 +17,7 @@ The Beatles
 Italo Calvino
 * [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler){:target="_blank"}
 * [Cosmicomics](https://www.goodreads.com/book/show/59780.Cosmicomics?ac=1){:target="_blank"}
+
+Agatha Christie
+* [The Secret Adversary](https://www.goodreads.com/book/show/49596.The_Secret_Adversary?from_search=true){:target="_blank"}
+* [Curtain](https://www.goodreads.com/book/show/81903.Curtain?ac=1&from_search=true){:target="_blank"}
