@@ -9,6 +9,7 @@ The Beatles
 * [In My Life](){:target="_blank"}
 * [Lucy in the Sky with Diamonds](https://www.youtube.com/watch?v=2RoA0QTZ-bM){:target="_blank"}
 * [Strawberry Fields Forever](https://www.youtube.com/watch?v=8UQK-UcRezE){:target="_blank"}
+* [We Can Work It Out](https://www.youtube.com/watch?v=Qyclqo_AV2M&list=RDjenWdylTtzs&index=8){:target="_blank"}
 * [She's Leaving Home](https://www.youtube.com/watch?v=Dypv4SLyAfg){:target="_blank"}
 * [A Day in the Life](https://www.youtube.com/watch?v=usNsCeOV4GM){:target="_blank"}
 * [Hello, Goodbye](https://www.youtube.com/watch?v=rblYSKz_VnI){:target="_blank"}
