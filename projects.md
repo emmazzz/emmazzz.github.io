@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Download my [resume](https://drive.google.com/file/d/1V0p6yCMEUWuZ_uTRDg1ujQ89M2CKMgtf/view?usp=sharing){:target="_blank"}
+Download my [resume](https://drive.google.com/file/d/1VEXjJa8EEIWJWM8eFUENN0taYTspwjGB/view?usp=sharing){:target="_blank"}
 
 ### DIGIT RECOGNITION WITH FPGA ACCELERATION([poster here](https://docs.google.com/presentation/d/1PsABjNmpiWUslj6-VCdsam89Ny823Chd2HQS2GHKUTA/edit?usp=sharing){:target="_blank"})
 * Implement fully connected neural network and LeNet in C, high-level synthesized onto FPGA for acceleration
