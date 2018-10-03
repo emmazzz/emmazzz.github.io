@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I am a senior at Carnegie Mellon University.
-I love food.
+I am a Masters student in Computer Science at Stanford University. My concentration is Software Theory and Systems.
 
